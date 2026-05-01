@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Name: NASHRULLAH (master version)
-=======
-Name: nashrullah
->>>>>>> conflict-branch
+Name: NASHRULLAH BIN FAHURRAHMMAN
+Matric No: 251594709
+Course: Data Science
+Hobbies: Gaming, Reading
