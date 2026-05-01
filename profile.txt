@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Name: NASHRULLAH (master version)
+=======
+Name: nashrullah
+>>>>>>> conflict-branch
